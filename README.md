@@ -1,6 +1,9 @@
-## Responsive Portfolio Website ✨
+# CODSOFT | Web Developement | Task-2 | Responsive Portfolio
 
-Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. 
+## Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. 
+## Description: 
+<p>In this project, I created a responsive personal portfolio website Using HTML, CSS and JavaScript, with a beautiful user interface. you can view the live preview of the site <a href="https://x0lg0n.github.io/CODSOFT-Task-2/">here. </a> </p>
+
 Website contains: 
 - Header 
 - Home
@@ -13,8 +16,3 @@ Website contains:
 - Testimonial
 - Contact
 - Footer 
-
-If u liked my website and the code was useful to you, <br>
-feel free to leave a star (much appreciated) fork it and customize as you like! :)
-
-- Inspired design by Bedimcode-Alexa design 🙌
