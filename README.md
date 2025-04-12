@@ -64,8 +64,8 @@ Then open `index.html` in your browser.
 
 For feedback or collaboration:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Email: [kumarsiddharthakain@gmail.com](mailto:kumarsiddharthakain@gmail.com)
+- LinkedIn: [Siddhartha Kunwar](https://www.linkedin.com/in/siddhartha-kunwar/)
 
 ---
 
