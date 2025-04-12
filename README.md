@@ -6,7 +6,7 @@ This project was developed as part of **CODSOFT Web Development Task-2** to show
 
 ## 🌐 Live Demo
 
-👉 [View Live Site](https://x0lg0n.github.io/CODSOFT-Task-2/)
+👉 [View Live Site](https://x0lg0n.github.io/Personal-Portfolio/)
 
 ## 🖼️ Preview
 
